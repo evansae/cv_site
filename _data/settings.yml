@@ -1,0 +1,132 @@
+#-------------------------------
+# Site Settings
+title: Alexander Evans
+logo: # You can add own logo. For example '/images/logo.png'.
+description: Historian and Writer in Fukuoka
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: "Projects"
+      url: '/projects'
+    - title: 'Contact'
+      url: '/contact'
+    - title: 'JP'
+      url: '/jplang/'
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero__title: Historian and Writer in Fukuoka
+  hero__description: # Subtitle text
+  hero__image: /images/hero_aso_70.jpg
+
+
+#-------------------------------
+# Author Global Settings
+author:
+  author__name: 
+  author__bio: 
+  author__avatar: 
+
+
+#-------------------------------
+# Blog Section Settings
+blog__settings:
+  enable: false
+  blog__title:
+  blog__description:
+
+
+#-------------------------------
+# Videos Section Settings
+videos__settings:
+  enable: false
+  videos__title:
+  videos__description:
+
+
+#-------------------------------
+# Tag Section Settings
+tag__settings:
+  enable: false
+  tag: 
+
+
+#-------------------------------
+# Author Section Settings
+author__section:
+  enable: false
+  author__section__title: 
+  author__section__description: 
+  aurhor__section__button__text: 
+  aurhor__section__button__link: 
+  author__section__big__image: 
+  author__section__small__image: 
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp__settings:
+  enable: false
+  mailchimp__title:
+  mailchimp__description: 
+  mailchimp__identifier: 
+  mailchimp__input__text: 
+  mailchimp__button__text: 
+  mailchimp__background__image: 
+
+
+#-------------------------------
+# Footer Settings
+footer__description: Historian and Writer in Fukuoka
+
+
+# Social Links
+social:
+- {icon: "twitter", link: "https://twitter.com"}
+- {icon: "linkedin", link: "https://www.linkedin.com/in/aevans04/"}
+- {icon: "github", link: "https://github.com/evansae"}
+
+# Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+# Footer Navigation
+footer__menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Projects'
+      url: '/projects/'
+    - title: 'Contact'
+      url: '/contact/'
+    - title: 'JP'
+      url: '/jplang/'
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: your@email.com # Add your form_id
+  description: I may not respond to every email, but feel free to get in touch using the form below and I will do my best to get back to you.
+
+# NOTE
+# Mria theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id
