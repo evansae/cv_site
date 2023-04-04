@@ -26,7 +26,7 @@ hero:
   enable: true
   hero__title: Historian and Writer in Fukuoka
   hero__description: # Subtitle text
-  hero__image: /images/hero_aso_70.jpg
+  hero__image: /images/hero_aso.jpg #may need to add '/cv_site' in front to work; not sure once custom domain
 
 
 #-------------------------------
