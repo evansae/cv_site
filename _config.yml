@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
-baseurl: #/cv_site
-url: #https://evansae.github.io
+baseurl: /cv_site
+url: https://evansae.github.io
 
 
 #-------------------------------
